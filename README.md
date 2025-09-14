@@ -1,1 +1,1 @@
-Ever caught yourself copying and pasting the same word/text/file over and over again in case it didn't copy it the first time? Well, no more of that now. Kopiclu (word play for copy clue) sends an instant visual clue for your copy & paste activity !
+Ever caught yourself copying and pasting the same word/text/file over and over again in case it didn't copy it the first time? Well, no more of that. Kopiclu (word play for copy clue) sends an instant visual clue for your copy & paste activity !
